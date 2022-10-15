@@ -1,2 +1,1 @@
-Bienvenido a JavaScript > Carlos Montenegro Diaz
-Cambio
+JavaScript
